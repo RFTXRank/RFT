@@ -1,0 +1,18 @@
+@media (max-width: 1200px) {
+	.navbar-dark .navbar-nav .nav-link {
+		font-size: 15px;
+		font-weight: 500;
+	}
+	#mainLoader {
+		font-size: 20px;
+	}
+	.title-card {
+		display: none;
+	}
+	.card-header .col-3 {
+		font-size: 12px;
+	}
+	.staking-cards-user .card-body .nav-link {
+		font-size: 14px;
+	}
+}
